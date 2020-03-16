@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartoon_Cartcature_App", "Cartoon_Cartcature_App\Cartoon_Cartcature_App.csproj", "{C14713BC-94BC-4117-A02B-520FA9591C53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common Packages", "Common Packages", "{17E6E72C-FA71-4E9D-85C4-DA240A15E86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartoon_Face", "Cartoon_Cartcature_App\Cartoon_Face_3_Nov\Cartoon_Face\Cartoon_Face.csproj", "{3717A15B-6BEB-45D7-82D3-6B0CD07E4FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartoon_KMCG", "Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\Cartoon_KMCG.csproj", "{E8FE6BC0-732D-43F8-8845-FA6A94F9DBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14713BC-94BC-4117-A02B-520FA9591C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14713BC-94BC-4117-A02B-520FA9591C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14713BC-94BC-4117-A02B-520FA9591C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14713BC-94BC-4117-A02B-520FA9591C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3717A15B-6BEB-45D7-82D3-6B0CD07E4FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3717A15B-6BEB-45D7-82D3-6B0CD07E4FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3717A15B-6BEB-45D7-82D3-6B0CD07E4FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3717A15B-6BEB-45D7-82D3-6B0CD07E4FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FE6BC0-732D-43F8-8845-FA6A94F9DBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FE6BC0-732D-43F8-8845-FA6A94F9DBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FE6BC0-732D-43F8-8845-FA6A94F9DBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FE6BC0-732D-43F8-8845-FA6A94F9DBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3717A15B-6BEB-45D7-82D3-6B0CD07E4FA5} = {17E6E72C-FA71-4E9D-85C4-DA240A15E86D}
+		{E8FE6BC0-732D-43F8-8845-FA6A94F9DBAD} = {17E6E72C-FA71-4E9D-85C4-DA240A15E86D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+Mean Filter 4
+
+kmcg_Old_Bmp with CB Size=5 0.407332901662381
+Kmcg_Old_PSNR 41.84
+Entropy_Old= 2.65333119866158 Hr= 1.13833119866158 Hl= 1.515
+
+kmcg_Old_Bmp with CB Size=6 0.410211322552621
+Kmcg_Old_PSNR 43.04
+Entropy_Old= 1.81795618917174 Hr= -4.38108282648325E-05 Hl= 1.818
+
+kmcg_New_Bmp 0.390037487422217
+Kmcg_New_PSNR = 40.98
+Entropy_New= 1.28895618917174 Hr= -4.38108282648324E-05 Hl= 1.289
+Cluster No. 32 CB Size= 203
+
+kmcg_New_Bmp_Enhanced 0.380170816857607
+Canny Filtered Image 0.173449945066645
+Canny Edge Addition Old= 0
+Canny Edge Addition New= 0.169464955838007
+Mean Filter 4
+
+kmcg_Old_Bmp with CB Size=5 0.379909285890088
+Kmcg_Old_PSNR 41.84
+Entropy_Old= 2.65333119866158 Hr= 1.13833119866158 Hl= 1.515
+
+kmcg_Old_Bmp with CB Size=6 0.451801462440084
+Kmcg_Old_PSNR 43.04
+Entropy_Old= 1.81795618917174 Hr= -4.38108282648325E-05 Hl= 1.818
+
+kmcg_New_Bmp 0.372334764379166
+Kmcg_New_PSNR = 40.98
+Entropy_New= 1.28895618917174 Hr= -4.38108282648324E-05 Hl= 1.289
+Cluster No. 32 CB Size= 203
+
+kmcg_New_Bmp_Enhanced 0.374294271326132
+Canny Filtered Image 0.176657452506648
+Canny Edge Addition Old= 0
+Canny Edge Addition New= 0.169011029732752

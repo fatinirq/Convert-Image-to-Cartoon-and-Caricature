@@ -1,0 +1,19 @@
+Mean Filter 5
+
+kmcg_Old_Bmp with CB Size=5 0.572313510049782
+Kmcg_Old_PSNR 41.52
+Entropy_Old= 2.82673933675724 Hr= 1.31273933675724 Hl= 1.514
+
+kmcg_Old_Bmp with CB Size=6 0.578241018564353
+Kmcg_Old_PSNR 42.53
+Entropy_Old= 1.81695623144919 Hr= -4.37685508107898E-05 Hl= 1.817
+
+kmcg_New_Bmp 0.566902742480096
+Kmcg_New_PSNR = 41.51
+Entropy_New= 1.32595623144919 Hr= -4.37685508107898E-05 Hl= 1.326
+Cluster No. 29 CB Size= 155
+
+kmcg_New_Bmp_Enhanced 0.460228922559574
+Canny Filtered Image 0.222741421329944
+Canny Edge Addition Old= 0
+Canny Edge Addition New= 0.243074861461674

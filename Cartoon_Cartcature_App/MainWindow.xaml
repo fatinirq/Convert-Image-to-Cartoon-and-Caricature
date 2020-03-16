@@ -1,0 +1,158 @@
+﻿<Window x:Class="Cartoon_Cartcature_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cartoon_Cartcature_App"
+        mc:Ignorable="d"
+        Title="Fatin" Height="800" Width="525" MaxWidth="1300" MaxHeight="1000" Foreground="{StaticResource OliveYellowGradientBrush}">
+    <Window.Resources>
+        <RadialGradientBrush x:Key="blueFatin" RadiusY="0.573" RadiusX="0.667" GradientOrigin="1.01,1.035">
+            <GradientStop Color="#FF06183C" Offset="0.81"/>
+            <GradientStop Color="#FF0D60A3"/>
+        </RadialGradientBrush>
+        <LinearGradientBrush x:Key="OliveYellowGradientBrush" 
+    			StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="DarkOliveGreen"   Offset="0" />
+            <GradientStop Color="Bisque" Offset="0.5" />
+            <GradientStop Color="DarkOliveGreen" Offset="1" />
+        </LinearGradientBrush>
+    </Window.Resources>
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="5"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            
+        </Grid.RowDefinitions>
+
+        <Border x:Name="borderTop" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" DockPanel.Dock="Top" Margin="2" HorizontalAlignment="Stretch"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+            <Grid   Background="{StaticResource blueFatin}" Height="100"  Width="auto"  FlowDirection="LeftToRight" VerticalAlignment="Stretch" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Source=" Cat.png" Grid.Column="0" HorizontalAlignment="Left"/>
+                <StackPanel Orientation="Vertical" Grid.Column="1" >
+                    <TextBlock Text="University of Technology" TextWrapping="Wrap" FontSize="16"/>
+                    <TextBlock Text="Computer Science Dep." TextWrapping="Wrap" FontSize="16"/>
+                    <TextBlock Text="Cartoon and Caricature System" TextWrapping="Wrap" FontSize="16"/>
+                </StackPanel>
+                <Image Source="TechSlogan.png" Grid.Column="2" HorizontalAlignment="Right"/>
+                
+            </Grid>
+        </Border>
+        <Border x:Name="borderRight" Grid.Column="0" Grid.Row="1" DockPanel.Dock="Right" Margin="2" HorizontalAlignment="Center"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+            <StackPanel     Background="{StaticResource blueFatin}"  Orientation="Vertical" Width="auto"  FlowDirection="LeftToRight" >
+                <GroupBox x:Name="grp" Header="Eye and Eyebrow" Margin="5" FontSize="18">
+                    <Grid Margin="5,5,5,5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="10*"/>
+                            <RowDefinition Height="10*"/>
+                            <RowDefinition Height="10*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="50"/>
+                        </Grid.ColumnDefinitions>
+                        <ToggleButton Name="tglEye" Grid.ColumnSpan="2" Grid.Row="0" HorizontalAlignment="Center" Margin="5" Padding="5" Width="100" Click="tglEye_Click" IsChecked="False" Loaded="tglEye_Click">
+                            <Image Source="Eye.png"  Stretch="Fill" Width="auto" Height="auto" MaxHeight="100" MaxWidth="100" />
+                        </ToggleButton>
+                       
+                        <Slider Name="siEye" Grid.Row="1" Grid.Column="0" Maximum="6" Minimum="1" TickFrequency="1" TickPlacement="BottomRight" IsSnapToTickEnabled="True" Visibility="{Binding ElementName=tglEye, Path=IsChecked, UpdateSourceTrigger=PropertyChanged}" ValueChanged="siEye_ValueChanged" Loaded="siEye_Loaded"/>
+                        <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding ElementName=siEye, Path=Value, UpdateSourceTrigger=PropertyChanged}"
+                                   Visibility="{Binding ElementName=siEye, Path=Visibility, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock Name="txtEye" Grid.Row="2" Grid.ColumnSpan="2" Visibility="{Binding ElementName=siEye, Path=Visibility, UpdateSourceTrigger=PropertyChanged}" TextWrapping="Wrap"  />
+
+                    </Grid>
+                </GroupBox>
+                <GroupBox x:Name="noseGrp" Header="Nose" Margin="5" FontSize="18">
+                    <Grid Margin="5,5,5,5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="10*"/>
+                            <RowDefinition Height="10*"/>
+                            <RowDefinition Height="10*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="50"/>
+                        </Grid.ColumnDefinitions>
+                        <ToggleButton Name="tglNose" Grid.ColumnSpan="2" Grid.Row="0" HorizontalAlignment="Center" Margin="5" Padding="5" Width="100" Click="tglNose_Click"  IsChecked="False" Loaded="tglNose_Loaded">
+                            <Image Source="Nose.png"  Stretch="Fill" Width="auto" Height="auto" MaxHeight="100" MaxWidth="100" />
+                        </ToggleButton>
+
+                        <Slider Name="siNose" Grid.Row="1" Grid.Column="0" Maximum="6" Minimum="1" TickFrequency="1" TickPlacement="BottomRight" IsSnapToTickEnabled="True" Visibility="{Binding ElementName=tglNose, Path=IsChecked, UpdateSourceTrigger=PropertyChanged}" ValueChanged="siNose_ValueChanged"  Loaded="siNose_Loaded"/>
+                        <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding ElementName=siNose, Path=Value, UpdateSourceTrigger=PropertyChanged}"
+                                   Visibility="{Binding ElementName=siNose, Path=Visibility, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock Name="txtNose" Grid.Row="2" Grid.ColumnSpan="2" Visibility="{Binding ElementName=siNose, Path=Visibility, UpdateSourceTrigger=PropertyChanged}" TextWrapping="Wrap"  />
+
+                    </Grid>
+                </GroupBox>
+                <GroupBox x:Name="mouthGrp" Header="Mouth" Margin="5" FontSize="18">
+                    <Grid Margin="5,5,5,5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="10*"/>
+                            <RowDefinition Height="10*"/>
+                            <RowDefinition Height="10*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="50"/>
+                        </Grid.ColumnDefinitions>
+                        <ToggleButton Name="tglMouth" Grid.ColumnSpan="2" Grid.Row="0" HorizontalAlignment="Center" Margin="5" Padding="5" Width="100" Click="tglMouth_Click"  IsChecked="False" Loaded="tglMouth_Loaded">
+                            <Image Source="Mouth.png"  Stretch="Fill" Width="auto" Height="auto" MaxHeight="100" MaxWidth="100" />
+                        </ToggleButton>
+
+                        <Slider Name="siMouth" Grid.Row="1" Grid.Column="0" Maximum="6" Minimum="1" TickFrequency="1" TickPlacement="BottomRight" IsSnapToTickEnabled="True" Visibility="{Binding ElementName=tglMouth, Path=IsChecked, UpdateSourceTrigger=PropertyChanged}" ValueChanged="siMouth_ValueChanged"  Loaded="siMouth_Loaded"/>
+                        <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding ElementName=siMouth, Path=Value, UpdateSourceTrigger=PropertyChanged}"
+                                   Visibility="{Binding ElementName=siMouth, Path=Visibility, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock Name="txtMouth" Grid.Row="2" Grid.ColumnSpan="2" Visibility="{Binding ElementName=siMouth, Path=Visibility, UpdateSourceTrigger=PropertyChanged}" TextWrapping="Wrap"  />
+
+                    </Grid>
+                </GroupBox>
+
+            </StackPanel>
+        </Border>
+        <GridSplitter Grid.Column="1" Grid.Row="1" ShowsPreview="true" HorizontalAlignment="Stretch" Width="5" Background="AliceBlue" ResizeDirection="Columns"  VerticalAlignment="Stretch"></GridSplitter>
+        <Border x:Name="borderCenter" Grid.Column="2" Grid.Row="1"  Margin="2" DockPanel.Dock="Left" Height="auto" HorizontalAlignment="Stretch"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5">
+            <StackPanel x:Name="mainArea" Background="{StaticResource blueFatin}" DockPanel.Dock="Right">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Border   Margin="2" HorizontalAlignment="Center"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+                    <StackPanel     Background="{StaticResource blueFatin}"   Width="auto"  FlowDirection="RightToLeft" >
+                        <TextBlock Text="Original Image" Foreground="{StaticResource OliveYellowGradientBrush}"/>
+                        <Image Name="original" Width="500" Height="450"></Image>
+                    </StackPanel>
+                </Border>
+                    <Border  DockPanel.Dock="Bottom" Margin="2" HorizontalAlignment="Center"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+                        <StackPanel     Background="{StaticResource blueFatin}"   Width="auto"  FlowDirection="RightToLeft" >
+                            <TextBlock Text="Proceeded Image" Foreground="{StaticResource OliveYellowGradientBrush}"/>
+                            <Image Name="art" Height="450" Width="500"></Image>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+                <Border  DockPanel.Dock="Bottom" Margin="2" HorizontalAlignment="Left"  Height="auto" Width="auto"  BorderBrush ="{StaticResource OliveYellowGradientBrush}"   BorderThickness="2,2,2,2" CornerRadius="5,5,5,5" >
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <ToggleButton Name="tglCart" Margin="5">
+                            <Image Source="Cart.png" Margin="5" Stretch="Fill" Width="auto" Height="auto" MaxHeight="100" MaxWidth="100" />
+                        </ToggleButton>
+                        <Button Name="btnProceed" Margin="5" Content="Proceed" FontSize="18" FontWeight="ExtraBold" Foreground="{StaticResource OliveYellowGradientBrush}" Click="btnProceed_Click"></Button>
+                       
+                    </StackPanel>
+                </Border>
+
+
+
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>
