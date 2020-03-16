@@ -11,6 +11,30 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartoon_Face", "Cartoon_Car
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartoon_KMCG", "Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\Cartoon_KMCG.csproj", "{E8FE6BC0-732D-43F8-8845-FA6A94F9DBAD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{A3110902-76D5-4F22-8094-225D13734BC1}"
+	ProjectSection(SolutionItems) = preProject
+		Samples\--draw = Samples\--draw
+		Samples\AllSubData.xlsx = Samples\AllSubData.xlsx
+		Samples\Command.txt = Samples\Command.txt
+		Samples\facial_landmarks.py = Samples\facial_landmarks.py
+		Samples\hello.xlsx = Samples\hello.xlsx
+		Samples\S1.jpg = Samples\S1.jpg
+		Samples\S2.jpg = Samples\S2.jpg
+		Samples\S2.xlsx = Samples\S2.xlsx
+		Samples\S3.xlsx = Samples\S3.xlsx
+		Samples\S4.jpg = Samples\S4.jpg
+		Samples\S4.xlsx = Samples\S4.xlsx
+		Samples\S5.jpg = Samples\S5.jpg
+		Samples\S5.xlsx = Samples\S5.xlsx
+		Samples\S6.jpg = Samples\S6.jpg
+		Samples\S6.xlsx = Samples\S6.xlsx
+		Samples\S7.jpg = Samples\S7.jpg
+		Samples\S7.xlsx = Samples\S7.xlsx
+		Samples\S8.jpg = Samples\S8.jpg
+		Samples\S8.xlsx = Samples\S8.xlsx
+		Samples\shape_predictor_68_face_landmarks.dat = Samples\shape_predictor_68_face_landmarks.dat
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
