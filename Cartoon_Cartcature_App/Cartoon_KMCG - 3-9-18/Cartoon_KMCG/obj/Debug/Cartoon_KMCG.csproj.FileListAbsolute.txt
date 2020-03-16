@@ -1,0 +1,138 @@
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.g.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\UC_LIPColor.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\UC_LIPColor.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\UC_System1.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\UC_System1.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\UC_System_2.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\UC_System_2.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe.config
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\UC_Results_Eval.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\UC_Results_Eval.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe.config
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\UC_LIPColor.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\UC_Results_Eval.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\UC_System1.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\UC_System_2.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\UC_LIPColor.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\UC_Results_Eval.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\UC_System1.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\UC_System_2.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.g.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 31-8-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe.config
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_LIPColor.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_Results_Eval.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System1.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System_2.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_LIPColor.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_Results_Eval.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System1.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System_2.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.g.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe.config
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\UC_LIPColor.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\UC_Results_Eval.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\UC_System1.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\UC_System_2.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\UC_LIPColor.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\UC_Results_Eval.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\UC_System1.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\UC_System_2.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.g.resources
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18 - Copy\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe.config
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_LIPColor.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_Results_Eval.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System1.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System_2.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_LIPColor.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_Results_Eval.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System1.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System_2.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.g.resources
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csprojResolveAssemblyReference.cache
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe.config
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.exe
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\bin\Debug\Cartoon_KMCG.pdb
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csprojResolveAssemblyReference.cache
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\MainWindow.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_LIPColor.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_Results_Eval.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System1.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System_2.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\App.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.cache
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG_MarkupCompile.lref
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\App.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\MainWindow.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_LIPColor.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_Results_Eval.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System1.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\UC_System_2.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.g.resources
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.Properties.Resources.resources
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.csproj.GenerateResource.Cache
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.exe
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\Cartoon_KMCG - 3-9-18\Cartoon_KMCG\obj\Debug\Cartoon_KMCG.pdb

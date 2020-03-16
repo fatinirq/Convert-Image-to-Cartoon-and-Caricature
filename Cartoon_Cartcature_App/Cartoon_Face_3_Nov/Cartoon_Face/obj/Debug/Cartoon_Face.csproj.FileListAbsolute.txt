@@ -1,0 +1,209 @@
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Accord.Imaging.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Accord.MachineLearning.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Accord.Vision.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\AForge.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\AForge.Imaging.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\AForge.Math.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Emgu.CV.UI.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Emgu.CV.World.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\ZedGraph.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Accord.Imaging.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Accord.MachineLearning.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Accord.Vision.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\AForge.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\AForge.Imaging.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\AForge.Math.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\Emgu.CV.UI.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\ZedGraph.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\UC_Preprocessing.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\UC_FacialLandMark.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\UC_Viola.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\UC_Viola_2.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\Cartoon_Face_Content.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\UC_Preprocessing.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\UC_FacialLandMark.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\UC_Viola.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\UC_Viola_2.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\Cartoon_Face.g.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\Cartoon_Face.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\Cartoon_Face.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face\Cartoon_Face\obj\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\Emgu.CV.UI.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\Emgu.CV.World.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\ZedGraph.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\Emgu.CV.UI.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\ZedGraph.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_Preprocessing.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_FacialLandMark.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_Viola.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face_Content.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_Preprocessing.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_FacialLandMark.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_Viola.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face.g.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\bin\Debug\Cartoon_Face.exe.config
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_SkinDetection.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_SkinDetection.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_12_Aug\Cartoon_Face\obj\Debug\Cartoon_Face.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\Cartoon_Face.exe.config
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\Emgu.CV.UI.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\Emgu.CV.World.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\ZedGraph.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\Emgu.CV.UI.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\ZedGraph.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_Preprocessing.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_FacialLandMark.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_SkinDetection.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_Viola.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face_Content.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_Preprocessing.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_FacialLandMark.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_SkinDetection.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\UC_Viola.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face.g.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_26_Oct\Cartoon_Face\obj\Debug\Cartoon_Face.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.exe.config
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.UI.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.World.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\ZedGraph.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.UI.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\ZedGraph.xml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Preprocessing.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FacialLandMark.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_SkinDetection.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Viola.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_Content.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Preprocessing.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FacialLandMark.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_SkinDetection.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Viola.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.g.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.exe.config
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.UI.dll
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.World.dll
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\ZedGraph.dll
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.UI.xml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\ZedGraph.xml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Preprocessing.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FacialLandMark.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_SkinDetection.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Viola.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_Content.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Preprocessing.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FacialLandMark.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_SkinDetection.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Viola.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.g.resources
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.csproj.GenerateResource.Cache
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.exe.config
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.exe
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Cartoon_Face.pdb
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.UI.dll
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.World.dll
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\ZedGraph.dll
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\Emgu.CV.UI.xml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\ZedGraph.xml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\MainWindow.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Preprocessing.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FacialLandMark.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_SkinDetection.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Viola.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\App.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_Content.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.cache
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face_MarkupCompile.lref
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\App.baml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FinalResultsCaricature.baml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\MainWindow.baml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FaceDrawingModel.baml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Preprocessing.baml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_FacialLandMark.baml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_SkinDetection.baml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\UC_Viola.baml
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.g.resources
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.Properties.Resources.resources
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.csproj.GenerateResource.Cache
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.exe
+D:\Thesis\Presentation - Copy\Cartoon_Face_3_Nov\Cartoon_Face\obj\Debug\Cartoon_Face.pdb

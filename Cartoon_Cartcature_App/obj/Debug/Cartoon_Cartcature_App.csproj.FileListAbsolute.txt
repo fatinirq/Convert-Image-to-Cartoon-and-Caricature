@@ -1,0 +1,90 @@
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.lref
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\App.baml
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.g.resources
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.exe
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\ToggleByFatin.baml
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Face.exe
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Emgu.CV.World.dll
+c:\users\asus\documents\visual studio 2015\Projects\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe.config
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Emgu.CV.World.dll
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\ToggleByFatin.baml
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.g.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Code\Cartoon_Cartcature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csprojResolveAssemblyReference.cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\App.g.cs
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.lref
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe.config
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Face.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_KMCG.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Emgu.CV.World.dll
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_KMCG.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Face.pdb
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\App.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\ToggleByFatin.baml
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.g.resources
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.Properties.Resources.resources
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csproj.GenerateResource.Cache
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.exe
+D:\Master\Research\caricature\Programming\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.pdb
+D:\Thesis\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csprojResolveAssemblyReference.cache
+D:\Thesis\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.g.cs
+D:\Thesis\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\App.g.cs
+D:\Thesis\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.cache
+D:\Thesis\Presentation\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.lref
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe.config
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csprojResolveAssemblyReference.cache
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\App.g.cs
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.cache
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App_MarkupCompile.lref
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.pdb
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Face.exe
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_KMCG.exe
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Emgu.CV.World.dll
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Face.pdb
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_KMCG.pdb
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\App.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\MainWindow.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\ToggleByFatin.baml
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.g.resources
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.Properties.Resources.resources
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.csproj.GenerateResource.Cache
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.exe
+D:\Thesis\Presentation - Copy\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.pdb
+D:\Thesis\Presentation1\Cartoon_Caricature_App\Cartoon_Cartcature_App\bin\Debug\Cartoon_Cartcature_App.exe.config
+D:\Thesis\Presentation1\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.exe
+D:\Thesis\Presentation1\Cartoon_Caricature_App\Cartoon_Cartcature_App\obj\Debug\Cartoon_Cartcature_App.pdb
