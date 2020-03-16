@@ -121,9 +121,9 @@
     <Resource Include="Cart.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Cartoon_Face_3_Nov\Cartoon_Face\Cartoon_Face.csproj">
+    <ProjectReference Include="Cartoon_Face_3_Nov\Cartoon_Face\Caricature_Face.csproj">
       <Project>{3717a15b-6beb-45d7-82d3-6b0cd07e4fa5}</Project>
-      <Name>Cartoon_Face</Name>
+      <Name>Caricature_Face</Name>
     </ProjectReference>
     <ProjectReference Include="Cartoon_KMCG - 3-9-18\Cartoon_KMCG\Cartoon_KMCG.csproj">
       <Project>{e8fe6bc0-732d-43f8-8845-fa6a94f9dbad}</Project>
